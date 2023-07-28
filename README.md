@@ -8,6 +8,6 @@ You can generate your own link for your notepad and access it everytime from the
 
 The repository counts with the virtual enviroment for the program's execution, in addition to the requirements.txt file with all the required libraries to the project.
 
-The project was an ability test about my python and flask knowings, after i have made a flask course (that does not teaches the project that i made, but a little online shop system). It helped me to improve experiences about dynamic routes, ORM, SQL (with postgres), circular imports, softwares refactoring, etc.
+The project was an ability test about my python and flask knowings, after i have made a flask course (that does not teaches the project that i made, but a little online shop system). It helped me to improve experiences about dynamic routes, ORM, SQL (with postgres), circular imports, softwares refactoring, etc. Please consider the... not so pretty interface. This project had a bigger focus on the back-end working, although i have interest on remake him on a... prettiest way.
 
 Hope you like it!
