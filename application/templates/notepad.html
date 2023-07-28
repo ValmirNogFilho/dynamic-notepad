@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form method="POST">
+{{form.input_text(id='text', style="width:1280px; resize:none; height:600px;")}}
+{{form.submit}}
+</form>
+
+{% endblock %}
+

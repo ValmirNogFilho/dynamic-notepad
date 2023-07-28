@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<form method="POST">
+<h4>Digite aqui um código de letras e/ou números</h4>
+{{form.input_link}}
+{{form.submit_button}}
+</form>
+<h4 style="color: red; background-color: black;">{{ alert_text }}</h4>
+{% endblock %}
